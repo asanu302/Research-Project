@@ -7,8 +7,10 @@ The idea is to merge these two systems (dockless and Docked station bikes) for a
 # Working 
 The methodology adopted for these project is based on CRISP-DM which works on the assumption that data mining projects follow a predened lifecycle
 
-Data understanding (EDA)
-Data Cleaning
-Data Modelling
-Implementation
-Visualisation
+Data understanding (EDA) /
+Data Cleaning /
+Data Modelling /
+Implementation /
+Visualisation/ 
+
+
